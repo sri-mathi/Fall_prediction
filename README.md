@@ -30,7 +30,7 @@ StandardScaler
 16.Combo of CNN & LSTM
 17.RNN
 
-**Dataset**
+**Dataset:**
 
  (374 images) which is used for training and Val (111 images) for validation
  
