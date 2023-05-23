@@ -1,4 +1,5 @@
-**ELDERLY FALL PREDICTION**
+**ELDERLY FALL PREDICTION**:
+
 Falls among the elderly population are a significant public health concern, often leading to severe injuries, reduced mobility, and diminished quality of life. Timely detection and prediction of falls can enable prompt intervention, reducing the associated risks and improving overall well-being. In recent years, advancements in computer vision and machine learning techniques have paved the way for image-based fall prediction systems. 
 
 
